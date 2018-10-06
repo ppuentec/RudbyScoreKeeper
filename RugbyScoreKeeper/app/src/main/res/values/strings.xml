@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Rugby Score Keeper</string>
+    <string name="NameOfFirstTeam">Team A</string>
+    <string name="LabelSecondButtonFirstTeam">Conversion</string>
+    <string name="LabelThirdButtonFirstTeam">DropGoal</string>
+    <string name="LabelFourthButtonFirstTeam">Penalty</string>
+    <string name="NameOfSecondTeam">Team B</string>
+    <string name="LabelFirstButtonFirstTeam">Try</string>
+    <string name="LabelFirstButtonSecondTeam">Try</string>
+    <string name="LabelSecondButtonSecondTeam">Conversion</string>
+    <string name="LabelThirdButtonSecondTeam">DropGoal</string>
+    <string name="LabelFourthButtonSecondTeam">Penalty</string>
+    <string name="LabelCenterButton">RESET</string>
+    <string name="ScoreFirstTeam">0</string>
+    <string name="ScoreSecondTeam">0</string>
+</resources>
